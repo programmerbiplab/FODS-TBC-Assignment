@@ -1,0 +1,2 @@
+Hello world! This is just another program.
+This is my input file.

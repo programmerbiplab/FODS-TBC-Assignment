@@ -1,0 +1,16 @@
+Gender,Height,Weight,Age,Height_m,BMI,Risk
+Female,162,57,21,1.62,21.719250114311837,lower risk
+Male,175,72,23,1.75,23.510204081632654,lower risk
+Female,155,50,19,1.55,20.811654526534856,lower risk
+Male,150,120,22,1.5,53.333333333333336,Serious health condition risk
+Female,157,110,21,1.57,44.62655685829039,Serious health condition risk
+Male,170,30,21,1.7,10.380622837370243,Nutrient deficient
+Female,160,35,20,1.6,13.671874999999998,Nutrient deficient
+Male,175,45,23,1.75,14.693877551020408,Nutrient deficient
+Female,160,50,22,1.6,19.531249999999996,lower risk
+Male,150,65,25,1.5,28.88888888888889,Heart disease risk
+Male,170,30,21,1.7,10.380622837370243,Nutrient deficient
+Female,160,35,20,1.6,13.671874999999998,Nutrient deficient
+Male,175,45,23,1.75,14.693877551020408,Nutrient deficient
+Female,160,50,22,1.6,19.531249999999996,lower risk
+Male,150,65,25,1.5,28.88888888888889,Heart disease risk
